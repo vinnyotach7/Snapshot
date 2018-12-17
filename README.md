@@ -2,6 +2,8 @@
 Simple photo gallery web application to showcase beautiful pictures and designs
 # By Vinny Otach
 
+# Application
+<img src="/home/moringaschool/Pictures/Screenshot from 2018-12-17 17-40-14.png">
 # Description
 This is  a simple photo gallery web application to showcase beautiful pictures and designs. Users get to view photos updated by the site admin. Users can see photos based on the location, by clicking on the listed locations in the menu. They can also copy the link to a photo to paste at their discretion. The search functionality will search photos based on the categories.
 
